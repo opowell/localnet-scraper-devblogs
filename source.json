@@ -1,0 +1,9 @@
+{
+  "scrapers": [
+    {
+      "name": "Microsoft Dev Blogs",
+      "urlPattern": "devblogs.microsoft.com"
+    }
+  ],
+  "file": "devblogs.js"
+}
